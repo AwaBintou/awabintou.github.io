@@ -1,0 +1,146 @@
+header{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    line-height: 50%;
+    background-color: transparent;
+    
+}
+.header-logo{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 50px;
+
+}
+.header-menu {
+    color: beige;
+    width: 100%;
+    
+}
+.menu a :hover{
+    color: antiquewhite;
+    background-color: black;
+}
+
+body{
+    background-color:beige;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0cm;
+    
+}
+.banner-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 60%;
+    color:black;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(114, 25, 25);
+    text-decoration: underline;
+}
+
+
+
+#img1{
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+}
+#img2{
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+    }
+#img3{
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+    }
+#img4{
+     display: inline-block;
+    height: 200px;
+     line-height:250px;
+    width: 50%;
+    }
+
+#imag1{
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+}
+#imag2{
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+}
+#imag3 {  
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+    
+
+}
+#imag4{
+    display: inline-block;
+    height: 200px;
+    line-height:250px;
+    width: 50%;
+
+      }
+
+.header-menu a:hover{
+    color: black;
+    background-color:rgb(115, 233, 221);
+    text-decoration: none;
+  }
+  .header-menu
+  {
+      width: 100%;
+      margin-left: auto;
+    margin-right: auto; 
+
+  }
+  p{
+      font-size: x-large;
+      font-family: cursive
+
+  }
+  .chateaux{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+  }
+  .pnl{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+#paris{
+    display: block;
+    margin: auto;
+}
+#titre{
+    display: block;
+    margin: auto;
+}
+#b{
+            
+    padding-right: 70px;
+    
+    }
+    
+
+

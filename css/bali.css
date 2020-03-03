@@ -1,0 +1,117 @@
+header{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    line-height: 50%;
+    background-color: transparent;
+    
+}
+.header-logo{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+
+}
+.header-menu {
+    color: beige;
+     
+}
+.menu a :hover{
+    color: antiquewhite;
+    background-color: black;
+
+}
+body{
+    background-color:beige;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0cm;
+    
+}
+.banner-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 60%;
+    color:black;
+    font-style: italic;
+}
+
+
+.header-menu a:hover{
+    color: black;
+    background-color:turquoise;
+  }
+
+
+
+img{
+    display:block ;
+    margin: auto;
+    ;
+}
+video{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(114, 25, 25);
+    text-decoration: underline;
+}
+p{
+    font-size: x-large;
+    font-family: cursive;
+    }
+         H2{
+             text-align: center;
+             color: rgb(219, 168, 73);
+             text-decoration: underline;
+         }
+         div img{
+             display: inline-block;
+         }
+         footer{
+             text-align: center;
+             font-weight: 100;
+             font-size: 40;
+             background: powderblue;
+         }
+         #ile{
+             width: 38%;
+             float: left;
+             height: 1000px;
+
+         }
+         #para{
+             margin-left: 40%;
+         }
+         #end{
+             font-size: xx-large;
+             text-decoration: underline;
+         }
+         #imgEnd{
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 40%;
+             }
+             #menu{
+                 width: 100%;
+             }
+            #repas{
+                margin-left: auto;
+                margin-right: auto;
+                display: block;
+                width: 40%;
+                
+        
+    
+            }
+            #b{
+                padding-right: 70px;
+            }

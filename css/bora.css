@@ -1,0 +1,122 @@
+header{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    line-height: 50%;
+    background-color: transparent;
+    
+}
+.header-logo{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+
+}
+.header-menu {
+    color: beige;
+    margin-left: auto;
+    margin-right: auto; 
+   
+}
+.menu a :hover{
+    color: antiquewhite;
+    background-color: black;
+
+}
+body{
+    background-color:beige;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0cm;
+    
+}
+.banner-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 60%;
+    color:black;
+    font-style: italic;
+}
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header-menu a:hover{
+    color: black;
+    background-color:turquoise;
+  }
+
+
+
+
+p{
+    font-size: x-large;
+    font-family: cursive;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(114, 25, 25);
+    text-decoration: underline;
+}
+H2{
+    text-align: center;
+    color: rgb(219, 168, 73);
+    text-decoration: underline;
+}
+img{
+    display:block ;
+    margin: auto;}
+ #un{
+     float: left;
+     width: 38%;
+     height: 850px;
+ }
+ #para2{
+     margin-left: 40%;
+ }  
+ #SNORLEKING{
+     width:40% ;
+ } 
+ #CROISIERE{
+     width: 40%;
+ }
+ #MONT{
+     width: 40%;
+ }
+ #CUISINE{
+     width: 40%;
+ }
+ #QUAD{
+     width: 40%;
+ }
+ #ENSEMBLE{
+     width: 60%;
+ }
+ #fin{
+    font-size: xx-large;
+             text-decoration: underline;
+ }
+ footer{
+    text-align: center;
+    font-weight: 100;
+    font-size: 40;
+    background: powderblue;
+ }
+#b{
+    padding-right: 70px;
+}

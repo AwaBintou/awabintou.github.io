@@ -1,0 +1,120 @@
+header{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    line-height: 50%;
+    background-color: transparent;
+    
+}
+.header-logo{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+
+}
+.header-menu {
+    color: beige;
+    margin-left: auto;
+    margin-right: auto; 
+
+       
+}
+.menu a :hover{
+    color: antiquewhite;
+    background-color: black;
+
+}
+body{
+    background-color:beige;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0cm;
+    
+}
+.banner-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 60%;
+    color:black;
+    font-style: italic;
+}
+#dubai1{
+    width: 100%;
+}
+
+.header-menu a:hover{
+    color: black;
+    background-color:turquoise;
+  }
+  #IMAGE{
+
+     float: left;
+     width: 39%;
+     
+  }
+ .dub{
+     font-size: x-large;
+     font-family: cursive;
+ }
+ h1{
+     text-align: center;
+     font-family: cursive;
+    text-decoration: underline;
+    color:rgb(114, 25, 25);
+
+ }
+ h2{
+    text-align: center;
+    font-family: cursive;
+   text-decoration: underline;
+   color: turquoise;
+   
+   
+ }#ile{
+    width: 38%;
+    float: left;
+
+}
+#para{
+    margin-left: 40%;
+    font-size: x-large;
+    font-family: cursive;
+    
+
+    }
+#par{
+    margin-left: 60%;
+    font-family: cursive;
+    text-decoration: underline;
+    color: turquoise;
+    font-size: x-large;
+}
+#fontaine{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#paragraphe{
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+}
+#fontain{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    
+    }
+#voyage{
+    background-color: turquoise;
+    font-family: cursive;
+    font-size: x-large;
+    text-align: center;
+}
+#b{
+    padding-right: 70px;
+}
+
